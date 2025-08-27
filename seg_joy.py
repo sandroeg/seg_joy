@@ -72,7 +72,7 @@ def event_stream(
     include_left_stick: bool = False,
     include_right_stick: bool = False,
     left_axes: Tuple[int, int] = (0, 1),
-    right_axes: Tuple[int, int] = (3, 4),
+    right_axes: Tuple[int, int] = (2, 3),
     left_eps: float = 0.02,
     right_eps: float = 0.02,
     left_interval: float = 0.02,
