@@ -1,4 +1,4 @@
-# Joystick Model (Python + pygame)
+# Seg_joy (Python + pygame)
 
 Uma biblioteca simples em Python para capturar eventos de joystick/controle usando **pygame**.
 Serve como modelo para estudo, ensino e futuros projetos.
@@ -15,6 +15,6 @@ Serve como modelo para estudo, ensino e futuros projetos.
 
 ## 📦 Instalação
 ```bash
-git clone https://github.com/<seu-usuario>/joystick-model.git
-cd joystick-model
+git clone https://github.com/sandroeg/seg_joy.git
+cd seg_joy
 pip install -r requirements.txt
